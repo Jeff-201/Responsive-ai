@@ -1,0 +1,22 @@
+The Hiring Bot That Filters Too Much
+What’s happening
+
+A company uses an AI hiring tool to screen job applicants. It checks résumés and decides who moves to the next stage based on patterns learned from the company’s past hiring data.
+
+  What’s problematic
+
+The bot is quietly rejecting more female applicants who have career gaps (often due to maternity leave or caregiving).
+This means:
+
+The AI has learned biased historical patterns.
+
+Qualified candidates are unfairly filtered out.
+
+The process becomes non-transparent, leaving applicants confused and disadvantaged.
+
+It reinforces gender inequality instead of reducing it.
+
+One improvement idea
+
+Conduct a bias audit and retrain the model with more balanced, representative data.
+Additionally, remove or minimize sensitive features (like gender or career gaps) and test for fairness before deployment.
